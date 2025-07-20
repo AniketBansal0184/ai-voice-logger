@@ -1,0 +1,4320 @@
+[
+  [
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-10",
+      "price": "61000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-10",
+      "price": "33200"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-10",
+      "price": "33200"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-11",
+      "price": "33200"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-12",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-13",
+      "price": "36600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-14",
+      "price": "73300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-14",
+      "price": "44500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-15",
+      "price": "119700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-15",
+      "price": "102700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-15",
+      "price": "85600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-15",
+      "price": "76300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-15",
+      "price": "46400"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-15",
+      "price": "46400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-16",
+      "price": "93500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-16",
+      "price": "80200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-16",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-16",
+      "price": "60200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-16",
+      "price": "36600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-16",
+      "price": "36600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-17",
+      "price": "84300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-17",
+      "price": "72300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-17",
+      "price": "61000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-17",
+      "price": "60300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-17",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-17",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-18",
+      "price": "84300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-18",
+      "price": "72300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-18",
+      "price": "60300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-18",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-18",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-19",
+      "price": "84300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-19",
+      "price": "72300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-19",
+      "price": "60300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-19",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-19",
+      "price": "33300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-20",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-20",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-20",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-20",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-20",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-21",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-21",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-21",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-21",
+      "price": "43200"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-21",
+      "price": "43200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-22",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-22",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-22",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-22",
+      "price": "77100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-22",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-22",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-23",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-23",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-23",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-23",
+      "price": "72000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-23",
+      "price": "36000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-23",
+      "price": "36000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-24",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-24",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-24",
+      "price": "105000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-24",
+      "price": "36000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-24",
+      "price": "36000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-25",
+      "price": "119000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-25",
+      "price": "119000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-25",
+      "price": "119000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-25",
+      "price": "40800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-25",
+      "price": "40800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-26",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-26",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-26",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-27",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-27",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-27",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2024-12-27",
+      "price": "81000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-28",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-28",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-28",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-29",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-29",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-29",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-29",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-29",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-30",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-30",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-30",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-30",
+      "price": "45600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-30",
+      "price": "45600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-31",
+      "price": "175000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-31",
+      "price": "175000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2024-12-31",
+      "price": "175000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2024-12-31",
+      "price": "60000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2024-12-31",
+      "price": "60000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-01",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-01",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-01",
+      "price": "133000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-01",
+      "price": "91200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-01",
+      "price": "45600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-01",
+      "price": "45600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-02",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-02",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-02",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-02",
+      "price": "77100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-02",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-02",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-03",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-03",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-03",
+      "price": "118200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-03",
+      "price": "81000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-03",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-03",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-04",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-04",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-04",
+      "price": "126000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-04",
+      "price": "86400"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-04",
+      "price": "43200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-04",
+      "price": "43200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-05",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-05",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-05",
+      "price": "112400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-05",
+      "price": "77100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-05",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-05",
+      "price": "38600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-06",
+      "price": "102900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-06",
+      "price": "88300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-06",
+      "price": "73500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-06",
+      "price": "65900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-06",
+      "price": "44600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-06",
+      "price": "44600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-07",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-07",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-07",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-07",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-07",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-07",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-08",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-08",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-08",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-08",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-08",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-08",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-09",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-09",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-09",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-09",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-09",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-09",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-10",
+      "price": "103000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-10",
+      "price": "88400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-10",
+      "price": "73600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-10",
+      "price": "65900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-10",
+      "price": "40100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-10",
+      "price": "40100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-11",
+      "price": "126300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-11",
+      "price": "108300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-11",
+      "price": "90200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-11",
+      "price": "80300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-11",
+      "price": "48800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-11",
+      "price": "48800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-12",
+      "price": "132200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-12",
+      "price": "113300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-12",
+      "price": "94400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-12",
+      "price": "83500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-12",
+      "price": "50800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-12",
+      "price": "50800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-13",
+      "price": "103000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-13",
+      "price": "88400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-13",
+      "price": "73600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-13",
+      "price": "65900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-13",
+      "price": "40100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-13",
+      "price": "40100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-14",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-14",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-14",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-14",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-14",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-14",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-15",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-15",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-15",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-15",
+      "price": "50000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-15",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-15",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-16",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-16",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-16",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-16",
+      "price": "50000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-16",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-16",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-17",
+      "price": "103000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-17",
+      "price": "88400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-17",
+      "price": "73600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-17",
+      "price": "55000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-17",
+      "price": "33400"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-17",
+      "price": "33400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-18",
+      "price": "126500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-18",
+      "price": "108500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-18",
+      "price": "90500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-18",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-18",
+      "price": "40600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-18",
+      "price": "40600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-19",
+      "price": "132200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-19",
+      "price": "113300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-19",
+      "price": "94400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-19",
+      "price": "69800"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-19",
+      "price": "42400"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-19",
+      "price": "42400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-20",
+      "price": "103400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-20",
+      "price": "88700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-20",
+      "price": "74000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-20",
+      "price": "55000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-20",
+      "price": "33500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-20",
+      "price": "33500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-21",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-21",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-21",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-21",
+      "price": "50000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-21",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-21",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-22",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-22",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-22",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-22",
+      "price": "50000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-22",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-22",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-23",
+      "price": "92900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-23",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-23",
+      "price": "66400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-23",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-23",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-24",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-24",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-24",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-24",
+      "price": "37300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-24",
+      "price": "37300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-25",
+      "price": "139200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-25",
+      "price": "139200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-25",
+      "price": "139200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-25",
+      "price": "40600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-25",
+      "price": "40600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-26",
+      "price": "145500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-26",
+      "price": "145500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-26",
+      "price": "145500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-26",
+      "price": "56600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-26",
+      "price": "56600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-27",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-27",
+      "price": "97600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-27",
+      "price": "81300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-27",
+      "price": "55000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-27",
+      "price": "44600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-27",
+      "price": "44600"
+    }
+  ],
+  [
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-28",
+      "price": "102300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-28",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-28",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-28",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-28",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-28",
+      "price": "40500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-29",
+      "price": "102300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-29",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-29",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-01-29",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-29",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-29",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-30",
+      "price": "102300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-30",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-30",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-30",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-30",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-31",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-31",
+      "price": "97600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-01-31",
+      "price": "81300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-01-31",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-01-31",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-01",
+      "price": "139400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-01",
+      "price": "119500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-01",
+      "price": "99600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-01",
+      "price": "40700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-01",
+      "price": "40700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-02",
+      "price": "145900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-02",
+      "price": "125100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-02",
+      "price": "104300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-02",
+      "price": "69900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-02",
+      "price": "42500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-02",
+      "price": "42500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-03",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-03",
+      "price": "97600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-03",
+      "price": "81300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-03",
+      "price": "55200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-03",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-03",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-04",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-04",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-04",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-04",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-04",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-04",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-05",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-05",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-05",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-05",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-05",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-05",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-06",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-06",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-06",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-06",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-06",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-06",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-07",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-07",
+      "price": "97600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-07",
+      "price": "81300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-07",
+      "price": "55200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-07",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-07",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-08",
+      "price": "139400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-08",
+      "price": "119500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-08",
+      "price": "99600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-08",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-08",
+      "price": "40700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-08",
+      "price": "40700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-09",
+      "price": "146000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-09",
+      "price": "125200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-09",
+      "price": "104300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-09",
+      "price": "69900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-09",
+      "price": "42500"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-09",
+      "price": "42500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-10",
+      "price": "113900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-10",
+      "price": "97700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-10",
+      "price": "81400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-10",
+      "price": "55200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-10",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-10",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-11",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-11",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-11",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-11",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-11",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-11",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-12",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-12",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-12",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-12",
+      "price": "50100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-12",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-12",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-13",
+      "price": "102500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-13",
+      "price": "87800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-13",
+      "price": "73200"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-13",
+      "price": "50200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-13",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-13",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-14",
+      "price": "113900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-14",
+      "price": "97700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-14",
+      "price": "81400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-14",
+      "price": "55200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-14",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-14",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-15",
+      "price": "152300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-15",
+      "price": "130600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-15",
+      "price": "108800"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-15",
+      "price": "72900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-15",
+      "price": "44300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-15",
+      "price": "44300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-16",
+      "price": "159200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-16",
+      "price": "136600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-16",
+      "price": "113800"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-16",
+      "price": "75900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-16",
+      "price": "46100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-16",
+      "price": "46100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-17",
+      "price": "124200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-17",
+      "price": "106500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-17",
+      "price": "88800"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-17",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-17",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-17",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-18",
+      "price": "112000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-18",
+      "price": "96100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-18",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-18",
+      "price": "54300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-18",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-18",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-19",
+      "price": "112000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-19",
+      "price": "96100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-19",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-19",
+      "price": "54300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-19",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-19",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-20",
+      "price": "112000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-20",
+      "price": "96100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-20",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-20",
+      "price": "54300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-20",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-20",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-21",
+      "price": "124600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-21",
+      "price": "106900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-21",
+      "price": "89000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-21",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-21",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-21",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-22",
+      "price": "152400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-22",
+      "price": "130700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-22",
+      "price": "108900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-22",
+      "price": "73000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-22",
+      "price": "44300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-22",
+      "price": "44300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-23",
+      "price": "159300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-23",
+      "price": "136700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-23",
+      "price": "113900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-23",
+      "price": "76100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-23",
+      "price": "46100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-23",
+      "price": "46100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-24",
+      "price": "124600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-24",
+      "price": "106900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-24",
+      "price": "89000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-24",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-24",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-24",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-25",
+      "price": "112100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-25",
+      "price": "96200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-25",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-25",
+      "price": "54400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-25",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-25",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-26",
+      "price": "112100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-26",
+      "price": "96200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-26",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-26",
+      "price": "54400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-26",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-26",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-27",
+      "price": "112100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-27",
+      "price": "96200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-27",
+      "price": "80100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-27",
+      "price": "54400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-27",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-27",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-28",
+      "price": "124600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-28",
+      "price": "106900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-02-28",
+      "price": "89000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-02-28",
+      "price": "59900"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-02-28",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-02-28",
+      "price": "36300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-01",
+      "price": "127100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-01",
+      "price": "108900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-01",
+      "price": "90800"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-01",
+      "price": "67300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-01",
+      "price": "40900"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-01",
+      "price": "40900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-02",
+      "price": "132800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-02",
+      "price": "113900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-02",
+      "price": "95000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-02",
+      "price": "70100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-02",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-02",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-03",
+      "price": "103900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-03",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-03",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-03",
+      "price": "55400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-03",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-03",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-04",
+      "price": "93500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-04",
+      "price": "80200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-04",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-04",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-04",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-04",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-05",
+      "price": "93500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-05",
+      "price": "80200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-05",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-05",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-05",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-05",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-06",
+      "price": "93500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-06",
+      "price": "80200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-06",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-06",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-06",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-06",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-07",
+      "price": "103900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-07",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-07",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-07",
+      "price": "55400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-07",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-07",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-08",
+      "price": "67400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-08",
+      "price": "40900"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-08",
+      "price": "40900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-09",
+      "price": "70100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-09",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-09",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-10",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-10",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-10",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-10",
+      "price": "55400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-10",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-10",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-11",
+      "price": "93700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-11",
+      "price": "80300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-11",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-11",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-11",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-11",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-12",
+      "price": "93700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-12",
+      "price": "80300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-12",
+      "price": "66900"
+    }
+  ],
+  [
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-12",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-12",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-12",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-13",
+      "price": "93700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-13",
+      "price": "80300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-13",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-13",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-13",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-13",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-14",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-14",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-14",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-14",
+      "price": "55400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-14",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-14",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-15",
+      "price": "127500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-15",
+      "price": "127500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-15",
+      "price": "127500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-15",
+      "price": "67400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-15",
+      "price": "41000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-15",
+      "price": "41000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-16",
+      "price": "133300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-16",
+      "price": "133300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-16",
+      "price": "133300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-16",
+      "price": "70200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-16",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-16",
+      "price": "42600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-17",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-17",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-17",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-17",
+      "price": "55400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-17",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-17",
+      "price": "33600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-18",
+      "price": "93700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-18",
+      "price": "80300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-18",
+      "price": "66900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-18",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-18",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-18",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-19",
+      "price": "93800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-19",
+      "price": "80500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-19",
+      "price": "67000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-19",
+      "price": "50300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-19",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-19",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-20",
+      "price": "93800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-20",
+      "price": "80500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-20",
+      "price": "67000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-20",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-20",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-20",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-21",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-21",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-21",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-21",
+      "price": "55500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-21",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-21",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-22",
+      "price": "127500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-22",
+      "price": "109400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-22",
+      "price": "91100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-22",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-22",
+      "price": "41000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-22",
+      "price": "41000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-23",
+      "price": "133500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-23",
+      "price": "114400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-23",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-23",
+      "price": "70200"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-23",
+      "price": "42700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-23",
+      "price": "42700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-24",
+      "price": "104000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-24",
+      "price": "89100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-24",
+      "price": "74300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-24",
+      "price": "55500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-24",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-24",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-25",
+      "price": "93800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-25",
+      "price": "80500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-25",
+      "price": "67000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-25",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-25",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-25",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-26",
+      "price": "93800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-26",
+      "price": "80500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-26",
+      "price": "67000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-26",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-26",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-26",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-27",
+      "price": "93800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-27",
+      "price": "80500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-27",
+      "price": "67000"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-27",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-27",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-27",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-28",
+      "price": "104200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-28",
+      "price": "89400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-28",
+      "price": "74500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-28",
+      "price": "55500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-28",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-28",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-29",
+      "price": "127800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-29",
+      "price": "109600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-29",
+      "price": "91300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-29",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-29",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-29",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-30",
+      "price": "133600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-30",
+      "price": "114600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-30",
+      "price": "95500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-30",
+      "price": "70400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-30",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-30",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-31",
+      "price": "104200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-31",
+      "price": "89400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-03-31",
+      "price": "74500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-03-31",
+      "price": "55500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-03-31",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-03-31",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-01",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-01",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-01",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-01",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-01",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-01",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-02",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-02",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-02",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-02",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-02",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-03",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-03",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-03",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-03",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-03",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-04",
+      "price": "104200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-04",
+      "price": "89400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-04",
+      "price": "74500"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-04",
+      "price": "37600"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-04",
+      "price": "37600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-05",
+      "price": "127900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-05",
+      "price": "109600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-05",
+      "price": "91300"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-05",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-05",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-06",
+      "price": "133600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-06",
+      "price": "114600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-06",
+      "price": "95500"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-06",
+      "price": "70400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-06",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-06",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-07",
+      "price": "104300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-07",
+      "price": "89500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-07",
+      "price": "74600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-07",
+      "price": "55600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-07",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-07",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-08",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-08",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-08",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-08",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-08",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-08",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-09",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-09",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-09",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-09",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-09",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-09",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-10",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-10",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-10",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-10",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-10",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-10",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-11",
+      "price": "104300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-11",
+      "price": "89500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-11",
+      "price": "74600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-11",
+      "price": "55600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-11",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-11",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-12",
+      "price": "127900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-12",
+      "price": "109600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-12",
+      "price": "91300"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-12",
+      "price": "67600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-12",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-12",
+      "price": "41100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-13",
+      "price": "133800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-13",
+      "price": "114800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-13",
+      "price": "95600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-13",
+      "price": "70600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-13",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-13",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-14",
+      "price": "104300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-14",
+      "price": "89500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-14",
+      "price": "74600"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-14",
+      "price": "55600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-14",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-14",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-15",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-15",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-15",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-15",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-15",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-15",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-16",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-16",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-16",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-16",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-16",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-16",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-17",
+      "price": "93900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-17",
+      "price": "80600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-17",
+      "price": "67100"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-17",
+      "price": "50400"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-17",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-17",
+      "price": "33000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-18",
+      "price": "104400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-18",
+      "price": "104400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-18",
+      "price": "104400"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-18",
+      "price": "55600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-18",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-18",
+      "price": "33700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-19",
+      "price": "127900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-19",
+      "price": "127900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-19",
+      "price": "127900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-19",
+      "price": "67700"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-19",
+      "price": "41200"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-19",
+      "price": "41200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-20",
+      "price": "133900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-20",
+      "price": "133900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-20",
+      "price": "133900"
+    },
+    {
+      "Property Name": "Albany Room",
+      "date": "2025-04-20",
+      "price": "70600"
+    },
+    {
+      "Property Name": "Amani Room",
+      "date": "2025-04-20",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Amani Premium Room",
+      "date": "2025-04-20",
+      "price": "42800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-21",
+      "price": "104400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-21",
+      "price": "89600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-21",
+      "price": "74600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-22",
+      "price": "94300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-22",
+      "price": "80900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-22",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-23",
+      "price": "94300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-23",
+      "price": "80900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-23",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-24",
+      "price": "94300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-24",
+      "price": "80900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-24",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-25",
+      "price": "104400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-25",
+      "price": "89600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-25",
+      "price": "74600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-26",
+      "price": "128200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-26",
+      "price": "109900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-26",
+      "price": "91700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-27",
+      "price": "133900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-27",
+      "price": "114900"
+    }
+  ],
+  [
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-27",
+      "price": "95700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-28",
+      "price": "104500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-28",
+      "price": "89700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-28",
+      "price": "74700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-29",
+      "price": "94300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-29",
+      "price": "80900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-29",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-30",
+      "price": "94300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-30",
+      "price": "80900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-04-30",
+      "price": "67500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-01",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-01",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-01",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-02",
+      "price": "123600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-02",
+      "price": "106000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-02",
+      "price": "88300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-03",
+      "price": "151500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-03",
+      "price": "129900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-03",
+      "price": "108300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-04",
+      "price": "158400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-04",
+      "price": "135800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-04",
+      "price": "113200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-05",
+      "price": "123600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-05",
+      "price": "106000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-05",
+      "price": "88300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-06",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-06",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-06",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-07",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-07",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-07",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-08",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-08",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-08",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-09",
+      "price": "123700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-09",
+      "price": "106100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-09",
+      "price": "88400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-10",
+      "price": "151500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-10",
+      "price": "129900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-10",
+      "price": "108300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-11",
+      "price": "158600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-11",
+      "price": "136000"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-11",
+      "price": "113300"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-12",
+      "price": "123700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-12",
+      "price": "106100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-12",
+      "price": "88400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-13",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-13",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-13",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-14",
+      "price": "111200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-14",
+      "price": "95400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-14",
+      "price": "79500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-15",
+      "price": "111500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-15",
+      "price": "95600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-15",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-16",
+      "price": "123800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-16",
+      "price": "106200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-16",
+      "price": "88500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-17",
+      "price": "151800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-17",
+      "price": "130200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-17",
+      "price": "108500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-18",
+      "price": "158800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-18",
+      "price": "136200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-18",
+      "price": "113500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-19",
+      "price": "123800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-19",
+      "price": "106200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-19",
+      "price": "88500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-20",
+      "price": "111500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-20",
+      "price": "95600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-20",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-21",
+      "price": "111500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-21",
+      "price": "95600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-21",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-22",
+      "price": "111500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-22",
+      "price": "95600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-22",
+      "price": "79700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-23",
+      "price": "123800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-23",
+      "price": "106200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-23",
+      "price": "88500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-24",
+      "price": "151900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-24",
+      "price": "130200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-24",
+      "price": "108500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-25",
+      "price": "158800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-25",
+      "price": "136200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-25",
+      "price": "113500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-26",
+      "price": "123800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-26",
+      "price": "106200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-26",
+      "price": "88500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-27",
+      "price": "111600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-27",
+      "price": "95700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-27",
+      "price": "79800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-28",
+      "price": "111600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-28",
+      "price": "95700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-28",
+      "price": "79800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-29",
+      "price": "111600"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-29",
+      "price": "95700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-29",
+      "price": "79800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-30",
+      "price": "124100"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-30",
+      "price": "106400"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-30",
+      "price": "88700"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-31",
+      "price": "152200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-31",
+      "price": "130500"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-05-31",
+      "price": "108800"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-06-01",
+      "price": "158900"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-06-01",
+      "price": "136200"
+    },
+    {
+      "Property Name": "Airyland Room",
+      "date": "2025-06-01",
+      "price": "113500"
+    }
+  ]
+]
