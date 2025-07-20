@@ -1,5 +1,5 @@
 const { google } = require("googleapis");
-const credentials = require("../formi-google-creds.json");
+const credentials = JSON.parse(process.env.GOOGLE_CREDS);
 
 const SCOPES = ["https://www.googleapis.com/auth/spreadsheets"];
 
