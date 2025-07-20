@@ -3,7 +3,7 @@ const router = express.Router();
 const axios = require("axios");
 const logToSheet = require("../utils/logToSheet");
 const rawRoomData = require("../data/chunked_roomInfo.json");
-
+require("dotenv").config();
 // const roomData = rawRoomData.flat();
 
 // const normalizeRoom = (str) =>
@@ -12,6 +12,8 @@ const rawRoomData = require("../data/chunked_roomInfo.json");
 //     .trim()
 //     .replace(/\s*rooms?$/i, "")
 //     .replace(/^room\s*/i, "");
+
+const BASE_API_URL = process.env.BASE_API_URL || "http://localhost:8000";
 
 router.post("/retell", async (req, res) => {
   try {
@@ -41,7 +43,7 @@ router.post("/retell", async (req, res) => {
         }
       });
     }
-    const classifyRes = await axios.post("http://localhost:8000/api/classify", {
+    const classifyRes = await axios.post(`${BASE_API_URL}/api/classify`, {
       message,
     });
 
@@ -52,15 +54,15 @@ router.post("/retell", async (req, res) => {
     let chunkRes;
 
     if (intent === "pricing") {
-      chunkRes = await axios.post("http://localhost:8000/api/pricing", { message });
+      chunkRes = await axios.post(`${BASE_API_URL}/api/pricing`, { message });
     } else if (intent === "rules") {
-      chunkRes = await axios.post("http://localhost:8000/api/rules", { message });
+      chunkRes = await axios.post(`${BASE_API_URL}/api/rules`, { message });
     } else if (intent === "cancellation") {
-      chunkRes = await axios.post("http://localhost:8000/api/cancellation", { message });
+      chunkRes = await axios.post(`${BASE_API_URL}/api/cancellation`, { message });
     } else if (intent === "query") {
-      chunkRes = await axios.post("http://localhost:8000/api/query", { message });
+      chunkRes = await axios.post(`${BASE_API_URL}/api/query`, { message });
     } else if (intent === "availability") {
-      chunkRes = await axios.post("http://localhost:8000/api/availability", { room, checkin, checkout, guests });
+      chunkRes = await axios.post(`${BASE_API_URL}/api/availability`, { room, checkin, checkout, guests });
     } else {
       chunkRes = {
         data: {
