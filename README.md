@@ -1,5 +1,3 @@
-## ✅ **Final Polished README.md (Professional Level)**
-
 ````markdown
 # 🏨 AI Voice Assistant – Hotel Booking via Retell AI
 
